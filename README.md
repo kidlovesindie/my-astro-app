@@ -1,3 +1,17 @@
+# Hello, World!
+
+This is my test site for using Astro and Cloudflare Pages to create a blog. 
+
+I wanted to learn the following things:
+
+- ✅ How quickly and easily I could create and deploy a blog using Astro and Cloudflare Pages. Answer: It was super easy, especially after I had my GitHub repo set up.
+- ✅ See Astro's guided help installation process on the CLI. Note: It was awesome!
+- ✅ Have an excuse to tinker and get hands-on experience with building my own website outside of Notion. 
+
+If you want to see how easy it is, I recommend using [Cloudflare's tutorial](https://developers.cloudflare.com/pages/framework-guides/deploy-an-astro-site/) if you want to create a basic app or launch your own Starlight doc site. If you're interested in a blog, you can check out Astro's blog tutorial below.
+
+
+
 # Astro Starter Kit: Blog
 
 ```sh
